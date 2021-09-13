@@ -22,3 +22,9 @@ for(let i in nombres){
 for(let nombre of nombres){
     console.log(nombre);
 }
+
+let i = 1;
+while(i <= 10){
+    console.log(i)
+    i++ // i += 1 // i = i + 1
+}
